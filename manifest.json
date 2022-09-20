@@ -1,0 +1,11 @@
+{
+    "name": "GoOnlineTools",
+    "version": "1.0.0",
+    "description": "100% Free Online Tools Collection",
+    "manifest_version": 3,
+    "author": "Rahul",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "GoOnlineTools"
+    }
+}
