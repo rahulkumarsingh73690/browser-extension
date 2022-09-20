@@ -1,2 +1,2 @@
 # browser-extension
-GoOnlineTools Browser Extension
+GoOnlineTools.com Browser Extension
